@@ -6,9 +6,11 @@
 - npm install lodash
 - npm install react-smooth-dnd --legacy-peer-deps
 - npm install @fortawesome/fontawesome-free --legacy-peer-deps
-
-
-
+- npm install react-bootstrap bootstrap --legacy-peer-deps
+- npm install uuid --legacy-peer-deps
+- npm install html-react-parser --legacy-peer-deps
+- npm install axios --legacy-peer-deps
+- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
